@@ -24,3 +24,8 @@ img{
     Width:500px;
     height:550px;
 }
+
+body{
+    background-color:grey;
+    width:100%;
+}
